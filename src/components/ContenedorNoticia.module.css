@@ -1,0 +1,25 @@
+.contenedor{
+    margin-bottom: 50px;
+}
+.titulo{
+    font-family: 'Noticia Text', Notic, serif;
+    text-align: start;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.imagen{
+    height: 200px;
+}
+
+.parrafo{
+    text-align: justify-all;
+}
+
+.cardLarge {
+    height: 570px!important;
+}
+
+.contenido{
+    max-height: 50%!important;
+}
